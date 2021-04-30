@@ -7,7 +7,8 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            message: "Hello world"
+            message: "Hello world",
+            urlGrumpy: 'https://riotfest.org/wp-content/uploads/2019/05/grumpy-cat.jpg'
         }
     }
 )
